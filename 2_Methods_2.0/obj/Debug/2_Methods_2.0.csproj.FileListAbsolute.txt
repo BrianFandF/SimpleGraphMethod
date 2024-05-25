@@ -1,0 +1,12 @@
+D:\University\Курсова робота\2_Methods_2.0\bin\Debug\2_Methods_2.0.exe.config
+D:\University\Курсова робота\2_Methods_2.0\bin\Debug\2_Methods_2.0.exe
+D:\University\Курсова робота\2_Methods_2.0\bin\Debug\2_Methods_2.0.pdb
+D:\University\Курсова робота\2_Methods_2.0\obj\Debug\2_Methods_2.0.csproj.AssemblyReference.cache
+D:\University\Курсова робота\2_Methods_2.0\obj\Debug\_2_Methods_2._0.Form1.resources
+D:\University\Курсова робота\2_Methods_2.0\obj\Debug\_2_Methods_2._0.Properties.Resources.resources
+D:\University\Курсова робота\2_Methods_2.0\obj\Debug\2_Methods_2.0.csproj.GenerateResource.cache
+D:\University\Курсова робота\2_Methods_2.0\obj\Debug\2_Methods_2.0.csproj.CoreCompileInputs.cache
+D:\University\Курсова робота\2_Methods_2.0\obj\Debug\2_Methods_2.0.exe
+D:\University\Курсова робота\2_Methods_2.0\obj\Debug\2_Methods_2.0.pdb
+D:\University\Курсова робота\2_Methods_2.0\obj\Debug\_2_Methods_2._0.Form_table.resources
+D:\University\Курсова робота\2_Methods_2.0\obj\Debug\_2_Methods_2._0.Form_graphics.resources
